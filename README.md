@@ -1,6 +1,7 @@
-"# ProjetDevOps" 
+Projet DevOps
 
-Nous sommes parties d'un projet développé en Java/Java EE avec le framework Spring Boot
+
+Nous sommes parties d'un projet développé en Java/Java EE avec le framework Spring Boot. Nous l'avons travailler en groupe de 9.
 *************************************************************************************************************************************************************************
 Technologies utlisiées pour ce projet
 
